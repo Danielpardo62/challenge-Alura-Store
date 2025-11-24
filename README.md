@@ -53,7 +53,7 @@ Con base en los datos analizados:
 
 ---
 
-📝 Recomendación Final
+## 📝 Recomendación Final
 
 Después del análisis, se concluye que el Sr. Juan debería vender la tienda con peor desempeño general (Tienda 4), ya que presenta:
 
